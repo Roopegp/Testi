@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > if (bool) {
 	> return;
 > }
@@ -11,4 +12,5 @@
 - Third item
 - Fourth item
 
-![tux] (img/img.png)
+![tux](img/img.png)
+
